@@ -1,6 +1,6 @@
 - 👋 Hi, I’m AnkitBisht
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning optimization
+- 🌱 I’m currently building large scale projects 
 - 💞️ I’m looking to collaborate on frontend & backend
 - 📫 How to reach me : 41ankitbisht@gmail.com
 
